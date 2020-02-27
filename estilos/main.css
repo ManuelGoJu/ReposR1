@@ -1,5 +1,6 @@
 aside{
-  background-color: #00EB42
+  background-image: url("img/images (1)");
+  background-color: #7050FF
 }
 aside * {
   color: white;
@@ -22,7 +23,7 @@ aside section h2:first-child{
 
 /*------------------------- main----------------------------*/
 .hero {
-  background-color: #9DFFCF;
+  background-color: #4D88FF;
 }
 .hero h2 {
   color: white;
@@ -30,8 +31,26 @@ aside section h2:first-child{
 }
 
 .hero {
-  box-shadow: 3px 3px 30px 5px #98FF91 inset;
+  box-shadow: 3px 3px 30px 5px #7A97FF inset;
 }
+
+.colection{
+  background-color: #4D88FF;
+}
+
+.tenda{
+  background-color: #4D88FF;
+}
+
+.fin{
+  background-color: #4D88FF;
+}
+body{
+background-image: url("img/images (1)");
+}
+
+
+
 
 /**
 *{
