@@ -1,0 +1,52 @@
+aside{
+  background-color: #00EB42
+}
+aside * {
+  color: white;
+}
+#profile-pic img{
+  border-radius: 50%;
+}
+aside h2{
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+aside section h2:first-child{
+  border-bottom: 5px solid white;
+}
+
+#profile-pic img{
+  border-radius: 50%;
+}
+
+/*------------------------- main----------------------------*/
+.hero {
+  background-color: #9DFFCF;
+}
+.hero h2 {
+  color: white;
+  border-top:  20px solid white;
+}
+
+.hero {
+  box-shadow: 3px 3px 30px 5px #98FF91 inset;
+}
+
+/**
+*{
+  color:;
+}
+p{
+  color: blue;
+}
+.Contactad{
+  background-color: ligthblue;
+}
+
+ul{
+  list-style-type: none;
+}
+article ul {
+  list-style-type: square;
+}
